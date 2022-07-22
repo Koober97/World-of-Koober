@@ -1,11 +1,15 @@
 # Website Creation Praction
 
-## Objective
+## Scenario
 * Was given a mock up of an website to create using the skills we have learned
 * No starting code was given
 
-## Incomplete
-* Due to unforseen circumstances, I was not able to complete this task on time
-* If possible I would like to resubmit to at least get some points back if it is allowed
+## 
+* Created a website that closely represents the given criteria
+* Will add images of myself to make it more personal in the future
 
-Link: https://koober97.github.io/website-creation-practice/
+## Screenshot of Deployed Website:
+
+## Link: https://koober97.github.io/website-creation-practice/
+
+### Created by Brian Koo
