@@ -9,7 +9,8 @@
 * Will add images of myself to make it more personal in the future
 
 ## Screenshot of Deployed Website:
+![Screenshot of Deployed Website](assets/screenshot/screenshot.png)
 
-## Link: https://koober97.github.io/website-creation-practice/
+## Link: https://koober97.github.io/World-of-Koober/
 
 ### Created by Brian Koo
